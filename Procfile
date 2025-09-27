@@ -1,0 +1,1 @@
+web: streamlit run chef_bot_huggingface.py --server.port=$PORT --server.address=0.0.0.0
